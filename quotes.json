@@ -1,0 +1,87 @@
+[
+    {
+        "latin": "Scilicet et morbis et debilitate carebis,\nEt luctum et curam effugies, et tempora vitae\nLonga tibi post haec fato meliore dabuntur.",
+        "english": "You will doubtless be free from ills and weakness and be free from grief and care, and a long life will be granted you, one with a better destiny.",
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 52
+            }
+        },
+        "default": "latin",
+        "source": "Horace, _Epodes_, VIII, 17, Juvenal, XIV, 156",
+        "attributed": "Horace"
+    },
+    {
+        "latin": "Illiterati num minus nervi rigent?",
+        "english": "Men who cannot read do not find it harder to get an erection, do they?",
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 52
+            }
+        },
+        "default": "latin",
+        "source": "found.book",
+        "attributed": "Montaigne"
+    },
+    {
+        "latin": "Ut vinum aegrotis, quia prodest raro, nocet saepissime, melius est non adhibere omnino, quam, spe dubia salutis, in apertam perniciem incurrere: sic haud scio an melius fuerit humano generi motum istum celerem cogitationis, acumen, solertiam, quam retionem covamus, quaniam pestifera sint multis, admodum paucis salutaria, non dari omnino, quam tam munifice et tam large dari.",
+        "english": "Wine is often bad and rarely good for the sick, so it is better to let them have none at all than to run known risks for a doubtful rememdy. So too with that mental agility, shrewdness and ingenuity which we call _reason_: it is baleful to many and good for only a few. It would have been better for Man not to have been given it at all than to have been given it with such great munificence.",
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 52
+            }
+        },
+        "default": "latin",
+        "source": "Socrates: Xenophon, _Memorabilia_, I, iv. 12; Cicero, _De nat. deorum_, III, xxvii",
+        "attributed": "Socrates"
+    },
+    {
+        "latin": "Eritis sicut dii, scientes bonum et malum",
+        "english": "You will be like gods, knowing good and evil",
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 52
+            }
+        },
+        "default": "latin",
+        "source": "found.book",
+        "attributed": "unknown"
+    },
+    {
+        "english": "Compare the life of a man enslaved by suh fantiasies with the life of a ploughman who, free from learning and prognostics, merely follows his natural appetities and judges things as they feel at present. He only feels ill when he really is ill; the other fello woften has stone in the mind before stone in the kidney. As though it were not time enough to suffer pain when it really comes along, our thoughts must run ahead and meet it.",
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 57
+            }
+        },
+        "default": "engligh",
+        "source": "found.book",
+        "attributed": "Montaigne"
+    },
+    {
+        "english": "For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow."
+        "found": {
+            "book": {
+                "title": "An Apology for Raymond Sebond",
+                "author": "Michel de Montaigne",
+                "page": 62
+            }
+        },
+        "default": "english",
+        "source": "Ecclesiastes 1:18",
+        "attributed": "Qoheleth"
+    },
+    {
+        "english": "Those who come back form the New World discovered by the Spaniards in the time of our fathers can testify how those people, without magistrates or lwas, live lives more ordinate and more just than any we find in our own countries, where there are more laws and legal officials than there are deeds or inhabitants."
+    }
+]

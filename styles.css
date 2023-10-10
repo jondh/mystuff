@@ -1,0 +1,96 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.full-screen-image {
+    min-height: 300px;
+    flex: 1;
+    background: url('clovers.jpg') no-repeat center bottom;
+    background-size: cover;
+    position: relative;
+}
+
+canvas {
+    width: 100%;
+    height: 100%;
+}
+
+#myCanvas {
+    background: #4D7557;
+}
+
+.text-overlay {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.text-overlay h1 {
+    font-size: 40px;
+    margin-bottom: 10px;
+}
+
+.text-overlay p {
+    font-size: 24px;
+    margin: 0;
+}
+
+.content {
+    padding: 20px;
+    text-align: center;
+}
+
+.content h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.content p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+.canvas-container {
+    position: relative;
+    width: 100%;
+    height: 400px; /* Set the desired height for the canvas */
+    overflow: hidden;
+}
+
+
+
+.short-stories {
+    margin-top: 40px;
+}
+
+.short-stories h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.short-stories ul {
+    list-style: none;
+    padding: 0;
+}
+
+.short-stories li {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.short-stories li a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.short-stories li a:hover {
+    text-decoration: underline;
+}
