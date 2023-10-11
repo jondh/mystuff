@@ -6,6 +6,75 @@ body, html {
     flex-direction: column;
 }
 
+#main-top-container {
+    background-color: #4D7557;
+}
+
+#main-title {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+#main-subtitle {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    margin: 0;
+    padding: 20px;
+    text-align: center;
+}
+
+.landing-project-container {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    padding: 20px;
+}
+
+.landing-project-title {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+    margin: 0;
+    text-align: left;
+}
+
+.landing-project-status {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.landing-project-summary {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.landing-project-phase {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+
+.landing-tech-summary {
+    color: #000;
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    margin-top: 10px;
+    text-align: left;
+}
+
 .full-screen-image {
     min-height: 300px;
     flex: 1;
